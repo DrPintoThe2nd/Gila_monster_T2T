@@ -1,0 +1,394 @@
+2: Sample from Eublepharis macularius
+Identifiers: BioSample: SAMEA1689199; SRA: ERS106873
+Organism: Eublepharis macularius
+Attributes:
+    /ArrayExpress-Species="Leopard gecko"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:56:36Z"
+    /External Id="SAMEA1689199"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:56:36Z"
+    /INSDC status="public"
+    /Submitter Id="Ema3SAL-sc-2012-03-22T09:25:49Z-1385646"
+    /description="RNA from salivary gland"
+    /sample name="Ema3SAL-sc-2012-03-22T09:25:49Z-1385646"
+    /scientific_name="Eublepharis macularius"
+Accession: SAMEA1689199	ID: 1884376
+
+4: Sample from Echis coloratus
+Identifiers: BioSample: SAMEA1689200; SRA: ERS106868
+Organism: Echis coloratus
+Attributes:
+    /ArrayExpress-Species="Saw-scaled viper"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:56:36Z"
+    /External Id="SAMEA1689200"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:56:36Z"
+    /INSDC status="public"
+    /Submitter Id="Eco3VG-sc-2012-03-22T09:20:49Z-1385645"
+    /description="RNA from venom gland"
+    /sample name="Eco3VG-sc-2012-03-22T09:20:49Z-1385645"
+    /scientific_name="Echis coloratus"
+Accession: SAMEA1689200	ID: 1884374
+
+5: Sample from Python regius
+Identifiers: BioSample: SAMEA1689214; SRA: ERS106867
+Organism: Python regius
+Attributes:
+    /ArrayExpress-Species="Royal python"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:56:25Z"
+    /External Id="SAMEA1689214"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:56:25Z"
+    /INSDC status="public"
+    /Submitter Id="Pre3SAL-sc-2012-03-22T09:20:48Z-1385644"
+    /description="RNA from salivary gland"
+    /sample name="Pre3SAL-sc-2012-03-22T09:20:48Z-1385644"
+    /scientific_name="Python regius"
+Accession: SAMEA1689214	ID: 1884373
+
+8: Sample from Eublepharis macularius
+Identifiers: BioSample: SAMEA1689222; SRA: ERS106862
+Organism: Eublepharis macularius
+Attributes:
+    /ArrayExpress-Species="Leopard gecko"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:56:35Z"
+    /External Id="SAMEA1689222"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:56:35Z"
+    /INSDC status="public"
+    /Submitter Id="Ema3SK-sc-2012-03-22T09:20:43Z-1385639"
+    /description="RNA from skin"
+    /sample name="Ema3SK-sc-2012-03-22T09:20:43Z-1385639"
+    /scientific_name="Eublepharis macularius"
+Accession: SAMEA1689222	ID: 1884370
+
+9: Sample from Opheodrys aestivus
+Identifiers: BioSample: SAMEA1689207; SRA: ERS106861
+Organism: Opheodrys aestivus
+Attributes:
+    /ArrayExpress-Species="Rough Green snake"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:56:25Z"
+    /External Id="SAMEA1689207"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:56:25Z"
+    /INSDC status="public"
+    /Submitter Id="Oae3SK-sc-2012-03-22T09:20:41Z-1385638"
+    /description="RNA from skin"
+    /sample name="Oae3SK-sc-2012-03-22T09:20:41Z-1385638"
+    /scientific_name="Opheodrys aestivus"
+Accession: SAMEA1689207	ID: 1884369
+
+10: Sample from Eublepharis macularius
+Identifiers: BioSample: SAMEA1689224; SRA: ERS094904
+Organism: Eublepharis macularius
+Attributes:
+    /tissue="salivary gland"
+    /ArrayExpress-Species="Leopard gecko"
+    /ENA-FIRST-PUBLIC="2013-01-07T17:02:18Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:52Z"
+    /External Id="SAMEA1689224"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T17:02:18Z"
+    /INSDC last update="2018-03-09T09:55:52Z"
+    /INSDC status="public"
+    /Submitter Id="Ema2SCG-sc-2012-02-15T14:50:50Z-1361332"
+    /description="RNA from salivary gland"
+    /sample name="Ema2SCG-sc-2012-02-15T14:50:50Z-1361332"
+    /scientific_name="Eublepharis macularius"
+Accession: SAMEA1689224	ID: 1884348
+
+11: Sample from Opheodrys aestivus
+Identifiers: BioSample: SAMEA1689203; SRA: ERS094902
+Organism: Opheodrys aestivus
+Attributes:
+    /tissue="salivary gland"
+    /ArrayExpress-Species="Rough Green snake"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:52Z"
+    /External Id="SAMEA1689203"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:52Z"
+    /INSDC status="public"
+    /Submitter Id="Oae2SCG-sc-2012-02-15T14:50:49Z-1361330"
+    /description="RNA from salivary gland"
+    /sample name="Oae2SCG-sc-2012-02-15T14:50:49Z-1361330"
+    /scientific_name="Opheodrys aestivus"
+Accession: SAMEA1689203	ID: 1884347
+
+12: Sample from Opheodrys aestivus
+Identifiers: BioSample: SAMEA1689219; SRA: ERS094901
+Organism: Opheodrys aestivus
+Attributes:
+    /tissue="salivary gland"
+    /ArrayExpress-Species="Rough Green snake"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T10:03:13Z"
+    /External Id="SAMEA1689219"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T10:03:13Z"
+    /INSDC status="public"
+    /Submitter Id="Oae1SCG-sc-2012-02-15T14:50:48Z-1361329"
+    /description="RNA from salivary gland"
+    /sample name="Oae1SCG-sc-2012-02-15T14:50:48Z-1361329"
+    /scientific_name="Opheodrys aestivus"
+Accession: SAMEA1689219	ID: 1884346
+
+13: Sample from Echis coloratus
+Identifiers: BioSample: SAMEA1689206; SRA: ERS094900
+Organism: Echis coloratus
+Attributes:
+    /tissue="salivary gland"
+    /ArrayExpress-Species="Saw-scaled viper"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:52Z"
+    /External Id="SAMEA1689206"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:52Z"
+    /INSDC status="public"
+    /Submitter Id="Eco2SCG-sc-2012-02-15T14:50:47Z-1361328"
+    /description="RNA from venom gland"
+    /sample name="Eco2SCG-sc-2012-02-15T14:50:47Z-1361328"
+    /scientific_name="Echis coloratus"
+Accession: SAMEA1689206	ID: 1884345
+
+14: Sample from Python regius
+Identifiers: BioSample: SAMEA1689227; SRA: ERS094897
+Organism: Python regius
+Attributes:
+    /tissue="salivary gland"
+    /ArrayExpress-Species="Royal python"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:50Z"
+    /External Id="SAMEA1689227"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:50Z"
+    /INSDC status="public"
+    /Submitter Id="Pre1SCG-sc-2012-02-15T14:50:45Z-1361325"
+    /description="RNA from salivary gland"
+    /sample name="Pre1SCG-sc-2012-02-15T14:50:45Z-1361325"
+    /scientific_name="Python regius"
+Accession: SAMEA1689227	ID: 1884344
+
+15: Sample from Pantherophis guttatus
+Identifiers: BioSample: SAMEA1689215; SRA: ERS094896
+Organism: Pantherophis guttatus
+Attributes:
+    /tissue="salivary gland"
+    /ArrayExpress-Species="Corn snake"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:50Z"
+    /External Id="SAMEA1689215"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:50Z"
+    /INSDC status="public"
+    /Submitter Id="Pgu2SCG-sc-2012-02-15T14:50:44Z-1361324"
+    /description="RNA from salivary gland"
+    /sample name="Pgu2SCG-sc-2012-02-15T14:50:44Z-1361324"
+    /scientific_name="Pantherophis guttatus"
+Accession: SAMEA1689215	ID: 1884343
+
+16: Sample from Pantherophis guttatus
+Identifiers: BioSample: SAMEA1689204; SRA: ERS094895
+Organism: Pantherophis guttatus
+Attributes:
+    /tissue="salivary gland"
+    /ArrayExpress-Species="Corn snake"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:50Z"
+    /External Id="SAMEA1689204"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:50Z"
+    /INSDC status="public"
+    /Submitter Id="Pgu1SCG-sc-2012-02-15T14:50:44Z-1361323"
+    /description="RNA from salivary gland"
+    /sample name="Pgu1SCG-sc-2012-02-15T14:50:44Z-1361323"
+    /scientific_name="Pantherophis guttatus"
+Accession: SAMEA1689204	ID: 1884342
+
+23: Sample from Eublepharis macularius
+Identifiers: BioSample: SAMEA1689225; SRA: ERS094883
+Organism: Eublepharis macularius
+Attributes:
+    /tissue="skin"
+    /ArrayExpress-Species="Leopard gecko"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:43Z"
+    /External Id="SAMEA1689225"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:43Z"
+    /INSDC status="public"
+    /Submitter Id="Ema1SK-sc-2012-02-15T14:50:34Z-1361311"
+    /description="RNA from skin"
+    /sample name="Ema1SK-sc-2012-02-15T14:50:34Z-1361311"
+    /scientific_name="Eublepharis macularius"
+Accession: SAMEA1689225	ID: 1884335
+
+24: Sample from Opheodrys aestivus
+Identifiers: BioSample: SAMEA1689209; SRA: ERS094882
+Organism: Opheodrys aestivus
+Attributes:
+    /tissue="skin"
+    /ArrayExpress-Species="Rough Green snake"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:43Z"
+    /External Id="SAMEA1689209"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:43Z"
+    /INSDC status="public"
+    /Submitter Id="Oae2SK-sc-2012-02-15T14:50:33Z-1361310"
+    /description="RNA from skin"
+    /sample name="Oae2SK-sc-2012-02-15T14:50:33Z-1361310"
+    /scientific_name="Opheodrys aestivus"
+Accession: SAMEA1689209	ID: 1884334
+
+25: Sample from Echis coloratus
+Identifiers: BioSample: SAMEA1689212; SRA: ERS094880
+Organism: Echis coloratus
+Attributes:
+    /tissue="skin"
+    /ArrayExpress-Species="Saw-scaled viper"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:43Z"
+    /External Id="SAMEA1689212"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:43Z"
+    /INSDC status="public"
+    /Submitter Id="Eco2SK-sc-2012-02-15T14:50:32Z-1361308"
+    /description="RNA from skin"
+    /sample name="Eco2SK-sc-2012-02-15T14:50:32Z-1361308"
+    /scientific_name="Echis coloratus"
+Accession: SAMEA1689212	ID: 1884333
+
+26: Sample from Echis coloratus
+Identifiers: BioSample: SAMEA1689211; SRA: ERS094879
+Organism: Echis coloratus
+Attributes:
+    /tissue="skin"
+    /ArrayExpress-Species="Saw-scaled viper"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:43Z"
+    /External Id="SAMEA1689211"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:43Z"
+    /INSDC status="public"
+    /Submitter Id="Eco1SK-sc-2012-02-15T14:50:31Z-1361307"
+    /description="RNA from skin"
+    /sample name="Eco1SK-sc-2012-02-15T14:50:31Z-1361307"
+    /scientific_name="Echis coloratus"
+Accession: SAMEA1689211	ID: 1884332
+
+27: Sample from Python regius
+Identifiers: BioSample: SAMEA1689213; SRA: ERS094878
+Organism: Python regius
+Attributes:
+    /tissue="skin"
+    /ArrayExpress-Species="Royal python"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:43Z"
+    /External Id="SAMEA1689213"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:43Z"
+    /INSDC status="public"
+    /Submitter Id="Pre2SK-sc-2012-02-15T14:50:30Z-1361306"
+    /description="RNA from skin"
+    /sample name="Pre2SK-sc-2012-02-15T14:50:30Z-1361306"
+    /scientific_name="Python regius"
+Accession: SAMEA1689213	ID: 1884331
+
+28: Sample from Python regius
+Identifiers: BioSample: SAMEA1689202; SRA: ERS094877
+Organism: Python regius
+Attributes:
+    /tissue="skin"
+    /ArrayExpress-Species="Royal python"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:43Z"
+    /External Id="SAMEA1689202"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:43Z"
+    /INSDC status="public"
+    /Submitter Id="Pre1SK-sc-2012-02-15T14:50:29Z-1361305"
+    /description="RNA from skin"
+    /sample name="Pre1SK-sc-2012-02-15T14:50:29Z-1361305"
+    /scientific_name="Python regius"
+Accession: SAMEA1689202	ID: 1884330
+
+29: Sample from Pantherophis guttatus
+Identifiers: BioSample: SAMEA1689229; SRA: ERS094875
+Organism: Pantherophis guttatus
+Attributes:
+    /tissue="skin"
+    /ArrayExpress-Species="Corn snake"
+    /ENA-FIRST-PUBLIC="2013-01-07T10:03:58Z"
+    /ENA-LAST-UPDATE="2018-03-09T09:55:43Z"
+    /External Id="SAMEA1689229"
+    /INSDC center name="SC"
+    /INSDC first public="2013-01-07T10:03:58Z"
+    /INSDC last update="2018-03-09T09:55:43Z"
+    /INSDC status="public"
+    /Submitter Id="Pgu1SK-sc-2012-02-15T14:50:25Z-1361303"
+    /description="RNA from skin"
+    /sample name="Pgu1SK-sc-2012-02-15T14:50:25Z-1361303"
+    /scientific_name="Pantherophis guttatus"
+Accession: SAMEA1689229	ID: 1884329
+
+31: Eco6 Liver
+Identifiers: BioSample: SAMN02780864; Sample name: Eco6 Liver; SRA: SRS626652
+Organism: Echis coloratus
+Attributes:
+    /strain="Eco"
+    /age="Adult"
+    /biomaterial provider="Dr. J. F. Mulley, School of Biological Sciences, Bangor, UK, LL57 2UW"
+    /sex="female"
+    /tissue="Liver"
+Accession: SAMN02780864	ID: 2780864
+
+36: Eco8VG
+Identifiers: BioSample: SAMN02780843; Sample name: Eco8VG; SRA: SRS607171
+Organism: Echis coloratus
+Attributes:
+    /strain="Eco"
+    /age="Adult"
+    /biomaterial provider="Dr. J. F. Mulley, School of Biological Sciences, Bangor, UK, LL57 2UW"
+    /sex="female"
+    /tissue="Venom gland"
+    /treatment="Milked 16 hours prior to sacrifice"
+Accession: SAMN02780843	ID: 2780843
+
+37: Eco7VG
+Identifiers: BioSample: SAMN02780842; Sample name: Eco7 Venom Gland; SRA: SRS607165
+Organism: Echis coloratus
+Attributes:
+    /breed="n/a"
+    /age="Adult"
+    /biomaterial provider="Dr. J. F. Mulley, School of Biological Sciences, Bangor, UK, LL57 2UW"
+    /sex="male"
+    /tissue="Venom gland"
+    /treatment="Milked 24 hours prior to sacrifice"
+Description:
+Venom gland from Adult Echis coloratus, taken 24 hours post-milking
+Accession: SAMN02780842	ID: 2780842
+
+
